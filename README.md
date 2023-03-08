@@ -1,4 +1,4 @@
-# Visa Requirements for 🇽🇰 Kosovo Passport Holders
+# Visa Requirements for Kosovo Passport Holders
 This Python code generates a web app using **Streamlit** to display visa requirements for Kosovo passport holders based on data stored in an Excel file. The app also provides filters to allow users to easily search for specific countries or visa requirements.
 
 The app layout includes a main title and a sidebar for filter options. The sidebar includes two filter options, "Visa Requirement" and "Country". The "Visa Requirement" filter allows the user to select from several options such as "Visa required", "Visa not required", "Admission refused", etc. The "Country" filter allows the user to select one or more countries from a list of options.
