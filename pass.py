@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Load data from Excel file
-data = pd.read_excel('pass.xlsx')
+data = pd.read_csv('pass.csv', encoding='ISO-8859-1')
+
 
 # Set up Streamlit app layout
 st.set_page_config(page_title="Visa Requirements for 🇽🇰 Kosovo Passport Holders", page_icon=":earth_africa:")
